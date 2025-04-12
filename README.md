@@ -1,6 +1,6 @@
 # Vuln-PoCs
 
-<img src="https://github.com/user-attachments/assets/b47203c2-cb0d-4958-959b-6781e073375f" width="35%" height="35%"/>
+<img src="https://github.com/user-attachments/assets/b47203c2-cb0d-4958-959b-6781e073375f" width="60%" height="60%"/>
 
 ---
 
