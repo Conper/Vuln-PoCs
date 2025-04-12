@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to **Vuln-PoCs**! This repository contains various security vulnerabilities and proof-of-concept scripts to demonstrate common exploits.
+Welcome to **Vuln-PoCs**! This repository contains various security vulnerabilities and PoC scripts to demonstrate common exploits.
 
 ## 📂 [Bash Vulnerabilities](https://github.com/Conper/Vuln-PoCs/blob/main/Bash.md) 🔐
 
